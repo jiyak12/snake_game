@@ -1,7 +1,6 @@
 import random
 from collections import deque
 import heapq
-
 # Directions (Up, Down, Left, Right)
 DIRECTIONS = [(-1, 0), (1, 0), (0, -1), (0, 1)]
 
